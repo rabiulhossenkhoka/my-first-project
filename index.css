@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    width: 400x;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+
+.display {
+    width: 40%;
+    height: 30%;
+    background-color: bisque;
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+}
+ .btn button{
+    background-color: aqua;
+    border-radius: 5px ;
+    border: none;
+    padding: 10px 10px;
+    margin: 4px;
+}
